@@ -1,4 +1,4 @@
-This directory contains the memory manager with no page replacement - the 
+example directory contains the memory manager with no page replacement - the 
 size of virtual and physical memory is the same.
 
 The task directory contains the implementation that has
