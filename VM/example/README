@@ -1,9 +1,10 @@
 This directory contains the memory manager with no page replacement - the 
 size of virtual and physical memory is the same.
 
-The page-replacement directory contains the implementation that has
+The task directory contains the implementation that has
 a smaller amount of physical memory, and therefore requires a page
-replacement once available memory has been allocated.
+replacement once available memory has been allocated. Your task is to implement LRU
+via stack and time stamp. Provide the statistics such as page fault rate and TLB hit rate in the report.
 
 To test a solution, run the following testing script:
 
